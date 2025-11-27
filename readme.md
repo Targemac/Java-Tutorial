@@ -1,0 +1,13 @@
+# LEARNING A NEW LANGUAGE : JAVA
+
+Youtube channel: [https://www.youtube.com/watch?v=xTtL8E4LzTQ](Bro Code)
+
+## Day 1: 27th Nov 2025. (3:12am)
+````
+*    installed JDK
+*    installed IntelliJ IDE
+````
+
+## Day 2: 27th Nov 2025.
+
+	
