@@ -12,6 +12,8 @@ Youtube channel: [https://www.youtube.com/watch?v=xTtL8E4LzTQ](Bro Code)
 💡*Tips* 
 - duplicate a line on intellij IDE with ```ctrl + D```
 - select multiple lines on intellij IDE with ```shift + alt + click```
+  - push a ```new local branch``` to ```remote``` with ```git push -u origin introduction```
+
 
 ## Day 2: 27th Nov 2025.
 
