@@ -3,34 +3,25 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args){
 
+//        calculate area of rectangle
+        double width = 0;
+        double height = 0;
+        double area = 0;
+
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Enter your name: ");
-//        to read a string
-        String name = scanner.nextLine();// this reads a string of characters including spaces
-        System.out.println("Hello " + name);
+        System.out.println("Enter width: ");
+        width = scanner.nextDouble();
 
-//        to read an integer
-        System.out.print("Enter your age: ");
-        int age = scanner.nextInt();
-        System.out.println("You are: " + age + " years old");
+        System.out.println("Enter height: ");
+        height = scanner.nextDouble();
 
-//        to read a double
-        System.out.print("What is your GPA ?");
-        double gpa = scanner.nextDouble();
-        System.out.println("Your gpa is: " + gpa);
+        area = width * height;
 
-//        to read a boolean
-        System.out.print("Are you a student ? (true/false)");
-        boolean isStudent = scanner.nextBoolean();
-        if(isStudent){
-        System.out.println("you are a student");
-        }else{
-            System.out.println("you are not a student");
-        }
+        System.out.println("The area is: " + area + "cm²");
 
-//        common issue
-//fix issues with calling scanner.nextLine() method
+
+
 
         scanner.close();
     }
