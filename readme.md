@@ -6,7 +6,9 @@ Youtube channel: [https://www.youtube.com/watch?v=xTtL8E4LzTQ](Bro Code)
 ````
 *    installed JDK
 *    installed IntelliJ IDE
+*   
 ````
+💡: duplicate a line on intellij IDE with ```ctrl + D```
 
 ## Day 2: 27th Nov 2025.
 
