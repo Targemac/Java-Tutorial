@@ -11,7 +11,7 @@ Youtube channel: [https://www.youtube.com/watch?v=xTtL8E4LzTQ](Bro Code)
 
 💡*Tips* 
 - duplicate a line on intellij IDE with ```ctrl + D```
-- select multiple lines on intellij IDE with ```shift + alt```
+- select multiple lines on intellij IDE with ```shift + alt + click```
 
 ## Day 2: 27th Nov 2025.
 
