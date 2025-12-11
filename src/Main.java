@@ -16,10 +16,10 @@ public class Main {
         String filePath = "C:\\Users\\user\\OneDrive\\Desktop\\test.txt";
         //        String textContent = "I like rice!😂💡💡";
         String textContent = """
-                this is a multipline text, 
-                if you get what i mean
-                end
-                """;
+                 this is a multiple text,\s
+                 if you get what i mean
+                 end
+                \s""";
 
 
         try (FileWriter writer = new FileWriter(filePath)) {
